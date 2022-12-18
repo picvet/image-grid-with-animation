@@ -3,7 +3,7 @@ small tailwind project for responsive image grid
 
 ## website
 
-(Website)[https://picvet.github.io/image-grid-with-animation/]
+[Website](https://picvet.github.io/image-grid-with-animation/)
 
 ## intention
 
